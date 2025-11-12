@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 Freenlancer<br>👯 I’m looking to collaborate on most projects for experience<br>🤝 I’m looking for help with react, java and sql<br>🌱 I’m currently learning react and sql<br>💬 Ask me about html lol<br>⚡ Fun fact Russian t-90m is so mid
 
 
