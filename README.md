@@ -1,5 +1,5 @@
 # About Me:
-🔭 Freenlancer<br>👯 I’m looking to collaborate on most projects for experience<br>🤝 I’m looking for help with react, java and sql<br>🌱 I’m currently learning react and sql<br>💬 Ask me about html lol<br>⚡ Fun fact Cats are scared of cucumbers because they mistake it for a snake
+🔭 Freenlancer<br>👯 I’m looking to collaborate on most projects for experience<br>🤝 I’m looking for help with react, java and sql<br>🌱 I’m currently learning react and sql<br>💬 Ask me about html lol<br>⚡ Fun fact: Cats are scared of cucumbers because they mistake it for a snake
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lasanha_a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AdryanUchôa) 
